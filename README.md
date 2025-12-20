@@ -5,12 +5,11 @@
 ![Header 11](https://github.com/user-attachments/assets/92139f71-2e9d-41a2-afe6-bfc0178c58d4)
 
 <!-- # 💫 About Me: -->
-🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de software.
+🧑‍💻 Mi nombre es Juan, soy ingeniero informático y desarrollador de software.
 
-He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desarrollo web y móvil, en donde he podido adquirir y expandir mis conocimientos como desarrollador.
-Actualmente me encuentro reforzando mis habilidades como desarrollador backend trabajando en proyectos que me permitan seguir creciendo en conocimiento y experiencia.
+He tenido la oportunidad de trabajar en proyectos relacionados con el mundo del desarrollo web, tanto del lado del frontend como del backend, los cuales me han ayudado a poner a prueba mis conocimientos como desarrollador. Actualmente, me encuentro centrado en el desarrollo de sistemas que cumplan con los estándares de seguridad, escalabilidad y mantenimiento, donde mis principales tecnologías son C#, .NET, SQL Server, Java y Spring Boot. 🎯
 
-💥 Soy un apasionado por el mundo de la tecnología y la creación de software, siempre en constante aprendizaje y tratando de estar lo más actualizado posible.🎯
+💥 Soy un apasionado del mundo de la tecnología y la creación de software; siempre intento estar en constante aprendizaje y trato de mantenerme lo más actualizado posible. 🎯
 
 # 🛠️ Tecnologías y herramientas:
 
