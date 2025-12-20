@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=juanncu&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ###
-![Header](https://github.com/user-attachments/assets/58bec35f-5797-4cdc-a793-716cfe397e5d)
+![Header 11](https://github.com/user-attachments/assets/92139f71-2e9d-41a2-afe6-bfc0178c58d4)
 
 <!-- # 💫 About Me: -->
 🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones web.
