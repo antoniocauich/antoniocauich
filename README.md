@@ -7,7 +7,7 @@
 <!-- # 💫 About Me: -->
 🧑‍💻 Mi nombre es Juan, soy ingeniero informático y desarrollador de software.
 
-He tenido la oportunidad de trabajar en proyectos relacionados con el mundo del desarrollo web, tanto del lado del frontend como del backend, los cuales me han ayudado a poner a prueba mis conocimientos como desarrollador. Actualmente, me encuentro centrado en el desarrollo de sistemas que cumplan con los estándares de seguridad, escalabilidad y mantenimiento, donde mis principales tecnologías son C#, .NET, SQL Server, Java y Spring Boot. 🎯
+He tenido la oportunidad de trabajar en proyectos relacionados con el mundo del desarrollo web, tanto del lado del frontend como del backend, los cuales me han ayudado a poner a prueba mis conocimientos como desarrollador. Actualmente, me encuentro centrado en el desarrollo de sistemas que cumplan con los estándares de seguridad, escalabilidad y mantenimiento, donde mis principales tecnologías son C#, .NET, SQL Server y Angular. 🎯
 
 💥 Soy un apasionado del mundo de la tecnología y la creación de software; siempre intento estar en constante aprendizaje y trato de mantenerme lo más actualizado posible. 🎯
 
