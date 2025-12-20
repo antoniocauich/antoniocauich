@@ -5,7 +5,7 @@
 ![Header 11](https://github.com/user-attachments/assets/92139f71-2e9d-41a2-afe6-bfc0178c58d4)
 
 <!-- # 💫 About Me: -->
-🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones web.
+🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de software.
 
 He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desarrollo web y móvil, en donde he podido adquirir y expandir mis conocimientos como desarrollador.
 Actualmente me encuentro reforzando mis habilidades como desarrollador backend trabajando en proyectos que me permitan seguir creciendo en conocimiento y experiencia.
