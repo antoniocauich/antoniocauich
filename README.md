@@ -7,7 +7,7 @@
 <!-- # 💫 About Me: -->
 🧑‍💻 Mi nombre es Juan, soy ingeniero informático y desarrollador de software.
 
-He tenido la oportunidad de trabajar en proyectos relacionados con el mundo del desarrollo web, tanto del lado del frontend como del backend, los cuales me han ayudado a poner a prueba mis conocimientos como desarrollador. Actualmente, me encuentro centrado en el desarrollo de sistemas que cumplan con los estándares de seguridad, escalabilidad y mantenimiento, donde mis principales tecnologías son C#, .NET, SQL Server, Angular, Java y Spring Boot. 🎯
+He tenido la oportunidad de trabajar en proyectos relacionados con el mundo del desarrollo web, tanto del lado del frontend como del backend, los cuales me han ayudado a poner a prueba mis conocimientos como desarrollador. Actualmente, me encuentro centrado en el desarrollo de sistemas que cumplan con los estándares de seguridad, escalabilidad y mantenimiento, donde mis principales tecnologías son C#, .NET, SQL Server, Angular, TailwindCSS y React. 🎯
 
 💥 Soy un apasionado del mundo de la tecnología y la creación de software; siempre intento estar en constante aprendizaje y trato de mantenerme lo más actualizado posible. 🎯
 
@@ -16,7 +16,6 @@ He tenido la oportunidad de trabajar en proyectos relacionados con el mundo del 
 ### Backend
 <!-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
