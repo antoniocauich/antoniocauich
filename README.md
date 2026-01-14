@@ -1,10 +1,6 @@
 <!-- ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228) -->
 ![Header 13](https://github.com/user-attachments/assets/0df4d3b1-0efa-4d5d-b09b-d16c2a1faf4e)
 
-
-###
-![Header 11](https://github.com/user-attachments/assets/92139f71-2e9d-41a2-afe6-bfc0178c58d4)
-
 <!-- # 💫 About Me: -->
 🧑‍💻 Mi nombre es Juan, soy ingeniero informático y desarrollador de software.
 
